@@ -37,6 +37,10 @@
 
 如果它没有帮到你，也欢迎提交 Issue 告诉我哪里失效了。对一个刚开始维护的开源项目来说，真实失败往往比一个数字更有价值。
 
+## 项目规范
+
+- 📘 [XiaoLeng Open-Source Project Brand Guide](PROJECT_BRAND_GUIDE.md)：项目封面、README、Release、Roadmap 与真实性规范
+
 ## 我相信
 
 AI 时代，真正有价值的不只是“会调用模型”，而是能够发现真实问题、设计解决方案，并把它稳定地交付到现实世界。
